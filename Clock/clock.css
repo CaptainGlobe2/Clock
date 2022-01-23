@@ -1,0 +1,22 @@
+html {
+    background: honeydew;
+  }
+  
+  body {
+    width: min-content;
+    margin: auto;
+  }
+  .time {
+    width: 400px;
+    margin: auto;
+  }
+  
+  h1 {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  canvas {
+    margin: 10px;
+  }
